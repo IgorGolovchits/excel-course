@@ -38,7 +38,10 @@
     "webpack-dev-server": "^4.6.0"
   },
   "dependencies": {
+    "@types/node": "^17.0.36",
     "core-js": "^3.9.0",
+    "node": "^17.7.2",
+    "normalize.css": "^8.0.1",
     "regenerator-runtime": "^0.13.9"
   }
 }
